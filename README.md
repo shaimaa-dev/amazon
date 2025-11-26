@@ -55,21 +55,7 @@ It allows users to **browse products, manage basket items, checkout securely, an
 
 ---
 
-## Screenshots
 
-**Home Page**
-![Home](screenshots/home.png)
-
-**Checkout Page**
-![Checkout](screenshots/checkout.png)
-
-**Payment Page**
-![Payment](screenshots/payment.png)
-
-**Orders Page**
-![Orders](screenshots/orders.png)
-
----
 
 ## Installation & Setup
 
