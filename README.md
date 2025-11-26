@@ -47,7 +47,7 @@ It allows users to **browse products, manage basket items, checkout securely, an
 
 | Layer         | Technology                            |
 | ------------- | ------------------------------------- |
-| Frontend      | React, Tailwind CSS, React Router DOM |
+| Frontend      | React, Tailwind CSS, React Router DOM , context api |
 | Backend       | Firebase Auth & Firestore             |
 | Payments      | Stripe API                            |
 | HTTP Requests | Axios                                 |
